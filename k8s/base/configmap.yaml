@@ -6,7 +6,7 @@ data:
   STUDENT_NAME: "Jared Gore"
   GITHUB_USERNAME: "jlgore"
   GITHUB_REPO: "devsecops-portfolio-template"
-  BIO: "DevOps engineer building secure, automated infrastructure. Woof"
+  BIO: "Week 8 capstone — deployed via ArgoCD GitOps"
   VAULT_ADDR: "http://vault.default:8200"
   VAULT_SECRET_PATH: "secret/data/github-app"
   LINKEDIN_URL: "https://www.linkedin.com/in/jared-gore-92585052/"
