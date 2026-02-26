@@ -9,4 +9,4 @@ resources:
 images:
 - name: ghcr.io/OWNER/devops-portfolio
   newName: ghcr.io/jlgore/devops-portfolio
-  newTag: sha-d23b038
+  newTag: sha-d931955
